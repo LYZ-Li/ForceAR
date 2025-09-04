@@ -1,0 +1,9 @@
+[submodule "ForceAR_arduino_firmware"]
+	path = ForceAR_arduino_firmware
+	url = git@github.com:LYZ-Li/ForceAR_arduino_firmware.git
+[submodule "ForceAR_unity_frontend"]
+	path = ForceAR_unity_frontend
+	url = git@github.com:LYZ-Li/ForceAR_unity_frontend.git
+[submodule "ForceAR_python_backend"]
+	path = ForceAR_python_backend
+	url = git@github.com:LYZ-Li/ForceAR_python_backend.git
